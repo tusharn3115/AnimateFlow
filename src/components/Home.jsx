@@ -21,7 +21,7 @@ const Home = () => {
             </div>
 
             <div className='right flex-1 h-screen p-16'>
-                <div className='text-7xl text-white font-["Aeonik"] font-bold pl-36 pt-10'>Animation <span className='bg-gradient-to-r from-pink-500 to-purple-500 text-transparent bg-clip-text'>Motion.</span></div>
+                <div className='text-7xl text-white font-["Aeonik"] font-bold pl-36 pt-10'>Animation <span className='bg-gradient-to-t from-[#00f260] to-[#0575e6] text-transparent bg-clip-text'>Flow.</span></div>
             </div>
         </div>
     )
